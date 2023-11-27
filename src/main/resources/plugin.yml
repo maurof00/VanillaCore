@@ -1,0 +1,39 @@
+name: MauroSurvival
+version: '${project.version}'
+main: it.mauro.vanillacore.MauroSurvival
+api-version: '1.19'
+commands:
+  sethome:
+    description: Set your home location
+    usage: /sethome <homeName>
+  home:
+    description: Teleport to your home location
+    usage: /home <homeName>
+  delhome:
+    description: Delete a home
+    usage: /deletehome <homeName>
+  homes:
+    description: List of homes
+    usage: /homes
+  tpa:
+    description: Tpa
+  tpaccept:
+    description: Tpaccept
+  tpareject:
+    description: Tpareject
+  help:
+    description: Aiuto page
+    aliases: [aiuto, comandi]
+  tp:
+    description: Teleports
+    aliases: [teleport, teletrasporto, stafftp]
+  gmc:
+    description: Gamemode toggle.
+  conto:
+    description: Mostra il conto.
+  shop:
+    description: Shop menu.
+  spadamauro:
+    description: Negro
+  cura:
+    description: Cura

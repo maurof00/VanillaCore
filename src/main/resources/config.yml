@@ -1,0 +1,16 @@
+messaggi:
+  home_set: "&7Casa creata come &e%home%&7!"
+  home_delete: "&7Casa &e%home% &7cancellata!"
+  home_teleport: "&7Teletrasportato alla casa &e%home%&7!"
+  plugin_config_reload: "&ePlugin&7 ricaricato con successo!"
+errori:
+  home_not_found: "Casa non trovata."
+  home_name_already_taken: "Casa già esistente."
+  home_empty_list: "Non hai ancora impostato nessuna casa!"
+  home_delete_error: "Impossibile cancellare la Casa."
+  plugin_no_permission: "Non hai abbastanza permessi!"
+usage:
+  home_set_usage: "Usa: /sethome <nomeCasa>"
+  home_delete_usage: "Usa: /delhome <nomeCasa>"
+  home_list_usage: "Usa: /homes"
+
